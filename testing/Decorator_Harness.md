@@ -53,4 +53,4 @@ def test_decorator_protocol_compliance() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Decorator]]
+- [Decorator](../patterns/Decorator.md)

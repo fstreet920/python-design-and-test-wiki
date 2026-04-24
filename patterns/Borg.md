@@ -37,4 +37,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Borg_Harness]]
+- [Borg_Harness](../testing/Borg_Harness.md)

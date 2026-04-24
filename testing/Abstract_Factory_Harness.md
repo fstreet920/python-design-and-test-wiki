@@ -62,4 +62,4 @@ def test_client_code_with_mock_factory() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Abstract_Factory]]
+- [Abstract_Factory](../patterns/Abstract_Factory.md)

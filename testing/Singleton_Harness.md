@@ -60,4 +60,4 @@ def reset_singleton() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Singleton]]
+- [Singleton](../patterns/Singleton.md)

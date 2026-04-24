@@ -51,4 +51,4 @@ def test_strategy_protocol_compliance() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Strategy]]
+- [Strategy](../patterns/Strategy.md)

@@ -56,4 +56,4 @@ def test_nested_expressions() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Interpreter]]
+- [Interpreter](../patterns/Interpreter.md)

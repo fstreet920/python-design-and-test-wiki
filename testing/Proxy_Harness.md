@@ -53,4 +53,4 @@ def test_proxy_protocol_compliance() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Proxy]]
+- [Proxy](../patterns/Proxy.md)

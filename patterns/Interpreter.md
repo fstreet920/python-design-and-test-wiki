@@ -55,4 +55,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Interpreter_Harness]]
+- [Interpreter_Harness](../testing/Interpreter_Harness.md)

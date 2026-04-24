@@ -35,5 +35,5 @@ def test_config_loading(temp_config_file: str) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Singleton]] - Used to ensure state is reset for singletons between tests.
-- [[Proxy]] - Useful for testing proxies that manage heavy resource connections.
+- [Singleton](../patterns/Singleton.md) - Used to ensure state is reset for singletons between tests.
+- [Proxy](../patterns/Proxy.md) - Useful for testing proxies that manage heavy resource connections.

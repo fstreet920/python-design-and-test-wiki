@@ -26,5 +26,5 @@ def test_string_length(input_str: str, expected_len: int) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Strategy]] - Parametrization is effectively the Strategy pattern applied to test data; it allows you to test interchangeable data sets against a fixed algorithm.
-- [[Template_Method]] - Useful when testing variations of a structural algorithm.
+- [Strategy](../patterns/Strategy.md) - Parametrization is effectively the Strategy pattern applied to test data; it allows you to test interchangeable data sets against a fixed algorithm.
+- [Template_Method](../patterns/Template_Method.md) - Useful when testing variations of a structural algorithm.

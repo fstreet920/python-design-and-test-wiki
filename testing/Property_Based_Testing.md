@@ -30,5 +30,5 @@ def test_sort_is_idempotent(numbers: list[int]) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Strategy]] - Ideal for verifying that different algorithmic strategies all maintain the same invariants.
-- [[Interpreter]] - Useful for ensuring a grammar interpreter handles all possible token sequences within a specification.
+- [Strategy](../patterns/Strategy.md) - Ideal for verifying that different algorithmic strategies all maintain the same invariants.
+- [Interpreter](../patterns/Interpreter.md) - Useful for ensuring a grammar interpreter handles all possible token sequences within a specification.

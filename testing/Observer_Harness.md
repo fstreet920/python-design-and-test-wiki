@@ -69,4 +69,4 @@ def test_multiple_observers_notification(subject: Subject[int]) -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Observer]]
+- [Observer](../patterns/Observer.md)

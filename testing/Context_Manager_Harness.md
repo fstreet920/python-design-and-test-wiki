@@ -35,5 +35,5 @@ def test_context_manager_exception_cleanup() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Context_Manager]]
-- [[Yield_Fixture]] - The testing equivalent of a context manager.
+- [Context_Manager](../patterns/Context_Manager.md)
+- [Yield_Fixture](./Yield_Fixture.md) - The testing equivalent of a context manager.

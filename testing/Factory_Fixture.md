@@ -44,5 +44,5 @@ def test_multiple_user_roles(make_user: Callable[[str, str], User]) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Abstract_Factory]] - The factory fixture is a functional implementation of an abstract factory for tests.
-- [[Builder]] - Useful for creating complex test data step-by-step.
+- [Abstract_Factory](../patterns/Abstract_Factory.md) - The factory fixture is a functional implementation of an abstract factory for tests.
+- [Builder](../patterns/Builder.md) - Useful for creating complex test data step-by-step.

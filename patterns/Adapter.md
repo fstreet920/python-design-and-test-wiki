@@ -52,4 +52,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Adapter_Harness]]
+- [Adapter_Harness](../testing/Adapter_Harness.md)

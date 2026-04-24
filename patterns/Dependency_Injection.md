@@ -41,4 +41,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Dependency_Injection_Harness]]
+- [Dependency_Injection_Harness](../testing/Dependency_Injection_Harness.md)

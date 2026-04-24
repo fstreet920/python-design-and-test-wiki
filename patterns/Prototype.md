@@ -66,4 +66,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Prototype_Harness]]
+- [Prototype_Harness](../testing/Prototype_Harness.md)

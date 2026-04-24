@@ -27,6 +27,6 @@ def test_user_authentication():
 ```
 
 ## Complementary Design Patterns
-- [[Mediator]] - Useful for testing the interactions between multiple components managed by a mediator.
-- [[State]] - Ideal for testing transitions between different states of an object.
-- [[Chain_of_Responsibility]] - Structures the test to verify a request's journey through the chain.
+- [Mediator](../patterns/Mediator.md) - Useful for testing the interactions between multiple components managed by a mediator.
+- [State](../patterns/State.md) - Ideal for testing transitions between different states of an object.
+- [Chain_of_Responsibility](../patterns/Chain_of_Responsibility.md) - Structures the test to verify a request's journey through the chain.

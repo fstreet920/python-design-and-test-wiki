@@ -28,6 +28,6 @@ def test_complex_api_response(snapshot: Any) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Memento]] - Snapshot testing is an externalized form of the Memento pattern used for state verification.
-- [[Composite]] - Excellent for verifying complex tree structures.
-- [[Visitor]] - Useful for capturing the results of an operation performed across a complex object structure.
+- [Memento](../patterns/Memento.md) - Snapshot testing is an externalized form of the Memento pattern used for state verification.
+- [Composite](../patterns/Composite.md) - Excellent for verifying complex tree structures.
+- [Visitor](../patterns/Visitor.md) - Useful for capturing the results of an operation performed across a complex object structure.

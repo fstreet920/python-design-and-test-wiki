@@ -62,4 +62,4 @@ def test_registration_management(prototype_manager: Prototype) -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Prototype]]
+- [Prototype](../patterns/Prototype.md)

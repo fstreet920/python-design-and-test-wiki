@@ -59,4 +59,4 @@ def test_key_generation_is_stable(factory: FlyweightFactory) -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Flyweight]]
+- [Flyweight](../patterns/Flyweight.md)

@@ -55,4 +55,4 @@ def test_leaf_raises_on_add() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Composite]]
+- [Composite](../patterns/Composite.md)

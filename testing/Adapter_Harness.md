@@ -47,4 +47,4 @@ def test_adapter_with_real_adaptee() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Adapter]]
+- [Adapter](../patterns/Adapter.md)

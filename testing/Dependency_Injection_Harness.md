@@ -41,5 +41,5 @@ def test_di_substitution() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Dependency_Injection]]
-- [[Mock_Injection]] - The general testing strategy for DI.
+- [Dependency_Injection](../patterns/Dependency_Injection.md)
+- [Mock_Injection](./Mock_Injection.md) - The general testing strategy for DI.

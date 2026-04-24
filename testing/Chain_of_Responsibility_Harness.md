@@ -58,4 +58,4 @@ def test_fluent_interface(monkey: MonkeyHandler, squirrel: SquirrelHandler) -> N
 ```
 
 ## Complementary Design Pattern
-- [[Chain_of_Responsibility]]
+- [Chain_of_Responsibility](../patterns/Chain_of_Responsibility.md)

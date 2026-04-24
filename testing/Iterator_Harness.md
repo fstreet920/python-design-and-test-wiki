@@ -58,4 +58,4 @@ def test_generic_int_collection() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Iterator]]
+- [Iterator](../patterns/Iterator.md)

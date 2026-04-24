@@ -52,4 +52,4 @@ def test_state_protocol_compliance() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[State]]
+- [State](../patterns/State.md)

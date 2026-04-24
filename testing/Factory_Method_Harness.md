@@ -53,4 +53,4 @@ def test_mock_creator_for_client_testing() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Factory_Method]]
+- [Factory_Method](../patterns/Factory_Method.md)

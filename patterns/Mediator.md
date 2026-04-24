@@ -79,4 +79,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Mediator_Harness]]
+- [Mediator_Harness](../testing/Mediator_Harness.md)

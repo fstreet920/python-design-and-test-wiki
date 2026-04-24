@@ -37,4 +37,4 @@ def test_borg_initialization_overlap() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Borg]]
+- [Borg](../patterns/Borg.md)

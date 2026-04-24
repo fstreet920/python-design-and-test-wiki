@@ -76,4 +76,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Observer_Harness]]
+- [Observer_Harness](../testing/Observer_Harness.md)

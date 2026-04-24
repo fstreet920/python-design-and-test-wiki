@@ -42,4 +42,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Descriptor_Harness]]
+- [Descriptor_Harness](../testing/Descriptor_Harness.md)

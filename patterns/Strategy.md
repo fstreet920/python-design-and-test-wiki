@@ -55,4 +55,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Strategy_Harness]]
+- [Strategy_Harness](../testing/Strategy_Harness.md)

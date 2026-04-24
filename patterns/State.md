@@ -63,4 +63,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[State_Harness]]
+- [State_Harness](../testing/State_Harness.md)
