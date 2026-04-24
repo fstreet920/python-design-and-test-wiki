@@ -53,4 +53,4 @@ def test_default_hook_behavior() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Template_Method]]
+- [Template_Method](../patterns/Template_Method.md)

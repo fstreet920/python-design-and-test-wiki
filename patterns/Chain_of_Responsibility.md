@@ -80,4 +80,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Chain_of_Responsibility_Harness]]
+- [Chain_of_Responsibility_Harness](../testing/Chain_of_Responsibility_Harness.md)

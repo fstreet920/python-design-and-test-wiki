@@ -39,4 +39,4 @@ def test_descriptor_instance_isolation() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Descriptor]]
+- [Descriptor](../patterns/Descriptor.md)

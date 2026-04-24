@@ -55,4 +55,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Proxy_Harness]]
+- [Proxy_Harness](../testing/Proxy_Harness.md)

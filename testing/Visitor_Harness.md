@@ -55,4 +55,4 @@ def test_component_protocol_compliance() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Visitor]]
+- [Visitor](../patterns/Visitor.md)

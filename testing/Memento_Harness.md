@@ -65,4 +65,4 @@ def test_caretaker_undo_on_empty_history(caretaker: Caretaker) -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Memento]]
+- [Memento](../patterns/Memento.md)

@@ -57,4 +57,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Factory_Method_Harness]]
+- [Factory_Method_Harness](../testing/Factory_Method_Harness.md)

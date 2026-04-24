@@ -38,6 +38,6 @@ def test_notify_user_success(mocker: Any) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Observer]] - Crucial for verifying that observers are notified without executing their actual logic.
-- [[Proxy]] - Used to verify that a proxy correctly delegates calls to the real subject.
-- [[Bridge]] - Useful for testing the abstraction independently of its implementation.
+- [Observer](../patterns/Observer.md) - Crucial for verifying that observers are notified without executing their actual logic.
+- [Proxy](../patterns/Proxy.md) - Used to verify that a proxy correctly delegates calls to the real subject.
+- [Bridge](../patterns/Bridge.md) - Useful for testing the abstraction independently of its implementation.

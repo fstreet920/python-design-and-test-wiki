@@ -65,4 +65,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Command_Harness]]
+- [Command_Harness](../testing/Command_Harness.md)

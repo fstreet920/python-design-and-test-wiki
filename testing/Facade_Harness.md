@@ -57,4 +57,4 @@ def test_facade_initialization() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Facade]]
+- [Facade](../patterns/Facade.md)

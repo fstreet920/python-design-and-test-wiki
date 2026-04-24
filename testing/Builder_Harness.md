@@ -71,4 +71,4 @@ def test_director_builds_full_product(director: Director) -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Builder]]
+- [Builder](../patterns/Builder.md)

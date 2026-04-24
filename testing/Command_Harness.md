@@ -63,4 +63,4 @@ def test_command_adheres_to_protocol() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Command]]
+- [Command](../patterns/Command.md)

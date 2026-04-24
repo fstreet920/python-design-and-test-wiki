@@ -7,7 +7,7 @@
 
 ## Technical Rules
 - **Python Version:** 3.12+ (strictly use type hints and PEP 8).
-- **Linking:** Use [[Wikilinks]] for all patterns. Every design pattern MUST link to a complementary Pytest harness pattern.
+- **Linking:** Use standard relative Markdown links for all patterns (e.g., `[Name](../patterns/Name.md)`). Every design pattern MUST link to a complementary Pytest harness pattern.
 - **Tools:** Use `Google Search` and `web_fetch` to research missing patterns before writing files.
 
 ## File Structure

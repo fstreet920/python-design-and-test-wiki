@@ -66,4 +66,4 @@ def test_component_mediator_linkage() -> None:
 ```
 
 ## Complementary Design Pattern
-- [[Mediator]]
+- [Mediator](../patterns/Mediator.md)

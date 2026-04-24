@@ -38,6 +38,6 @@ def test_admin_access(admin_user: User) -> None:
 ```
 
 ## Complementary Design Patterns
-- [[Builder]] - Directly maps to the Test Data Builder pattern.
-- [[Prototype]] - Object Mothers often act as a registry of prototypes for tests.
-- [[Factory_Method]] - The underlying mechanism for generating test data objects.
+- [Builder](../patterns/Builder.md) - Directly maps to the Test Data Builder pattern.
+- [Prototype](../patterns/Prototype.md) - Object Mothers often act as a registry of prototypes for tests.
+- [Factory_Method](../patterns/Factory_Method.md) - The underlying mechanism for generating test data objects.

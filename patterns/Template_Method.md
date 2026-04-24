@@ -90,4 +90,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Template_Method_Harness]]
+- [Template_Method_Harness](../testing/Template_Method_Harness.md)

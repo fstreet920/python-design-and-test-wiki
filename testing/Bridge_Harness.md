@@ -52,4 +52,4 @@ def test_concrete_implementations(implementation_class: type[Implementation]) ->
 ```
 
 ## Complementary Design Pattern
-- [[Bridge]]
+- [Bridge](../patterns/Bridge.md)

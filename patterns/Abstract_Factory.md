@@ -88,4 +88,4 @@ if __name__ == "__main__":
 ```
 
 ## Complementary Testing Pattern
-- [[Abstract_Factory_Harness]]
+- [Abstract_Factory_Harness](../testing/Abstract_Factory_Harness.md)
