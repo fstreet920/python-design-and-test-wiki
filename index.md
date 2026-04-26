@@ -33,6 +33,13 @@ Welcome to the Python Design & Test Wiki. This wiki contains interlinked documen
 - [Template_Method](./patterns/Template_Method.md) - Define the skeleton of an algorithm.
 - [Visitor](./patterns/Visitor.md) - Represent an operation to be performed on elements of an object structure.
 
+### Architectural Patterns
+Patterns for structuring complex applications and managing domain-persistence boundaries.
+- [Repository](./patterns/Repository.md) - Abstract data access behind a collection-like interface.
+- [Unit_of_Work](./patterns/Unit_of_Work.md) - Manage transactional boundaries and coordinate data changes.
+- [Service_Layer](./patterns/Service_Layer.md) - Orchestrate business logic and decouple application layers.
+- [Specification](./patterns/Specification.md) - Encapsulate business rules as reusable, composable objects.
+
 ### Pythonic Idioms
 Language-specific patterns that leverage Python's unique features.
 - [Borg](./patterns/Borg.md) - Shared state among all instances (Monostate).
@@ -59,3 +66,4 @@ Specific Pytest implementation strategies for GoF and Pythonic patterns.
 - [Adapter_Harness](./testing/Adapter_Harness.md), [Bridge_Harness](./testing/Bridge_Harness.md), [Composite_Harness](./testing/Composite_Harness.md), [Decorator_Harness](./testing/Decorator_Harness.md), [Facade_Harness](./testing/Facade_Harness.md), [Flyweight_Harness](./testing/Flyweight_Harness.md), [Proxy_Harness](./testing/Proxy_Harness.md)
 - [Chain_of_Responsibility_Harness](./testing/Chain_of_Responsibility_Harness.md), [Command_Harness](./testing/Command_Harness.md), [Interpreter_Harness](./testing/Interpreter_Harness.md), [Iterator_Harness](./testing/Iterator_Harness.md), [Mediator_Harness](./testing/Mediator_Harness.md), [Memento_Harness](./testing/Memento_Harness.md), [Observer_Harness](./testing/Observer_Harness.md), [State_Harness](./testing/State_Harness.md), [Strategy_Harness](./testing/Strategy_Harness.md), [Template_Method_Harness](./testing/Template_Method_Harness.md), [Visitor_Harness](./testing/Visitor_Harness.md)
 - [Borg_Harness](./testing/Borg_Harness.md), [Context_Manager_Harness](./testing/Context_Manager_Harness.md), [Descriptor_Harness](./testing/Descriptor_Harness.md), [Dependency_Injection_Harness](./testing/Dependency_Injection_Harness.md)
+- [Repository_Harness](./testing/Repository_Harness.md), [Unit_of_Work_Harness](./testing/Unit_of_Work_Harness.md), [Service_Layer_Harness](./testing/Service_Layer_Harness.md), [Specification_Harness](./testing/Specification_Harness.md)
